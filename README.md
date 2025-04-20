@@ -8,14 +8,14 @@ A sleek, minimalist e-commerce application built with Flutter that showcases cle
 
 ## 📱 App Showcase
 
-Row 1: Main Screens
+Main Screens
 <p align="center">
   <img src="https://i.imgur.com/ybmTd07.jpeg" width="200" alt="🏠 Intro Page">
   <img src="https://i.imgur.com/QRkvDXw.jpeg" width="200" alt="🔍 Product Details">
   <img src="https://i.imgur.com/a7c4WKl.jpeg" width="200" alt="🛒 Shopping Cart">
   <img src="https://i.imgur.com/uQTSeoy.jpeg" width="200" alt="📋 Drawer Menu">
 </p>
-Row 2: Management Screens
+Management Screens
 <p align="center">
   <img src="https://i.imgur.com/gir8u1m.jpeg" width="200" alt="➕ Add New Product">
   <img src="https://i.imgur.com/hZ3AeAy.jpeg" width="200" alt="👤 User Profile">
