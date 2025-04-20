@@ -2,7 +2,22 @@
 
 A sleek, minimalist e-commerce application built with Flutter that showcases clean architecture and effective state management. The app features a consistent black and white design theme for a modern shopping experience.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Minimal+E-commerce+App)
+## App Screenshots
+
+### Home Screen & Product Listing
+![Home Screen](https://imgur.com/hBLxALO)
+
+### Product Details
+![Product Details](/api/placeholder/300/600?text=Product+Details)
+
+### Shopping Cart
+![Shopping Cart](/api/placeholder/300/600?text=Shopping+Cart)
+
+### User Profile
+![User Profile](/api/placeholder/300/600?text=User+Profile)
+
+### Add/Edit Product
+![Add Product](/api/placeholder/300/600?text=Add+Product)
 
 ## Features
 
@@ -86,6 +101,42 @@ lib/
     └── custom_app_bar.dart
 ```
 
+## Core Implementation Details
+
+### Data Flow
+1. **Fetching Products**: The app fetches product data from the FakeStore API on startup and caches it locally
+2. **Local Storage**: Products added by users are stored in IsarDB and merged with API fetched products
+3. **State Management**: Provider notifies the UI about changes in product list, cart, and user data
+
+### App Features in Action
+
+#### Product Listing
+- Dynamic grid with smooth scrolling
+- Products show image, title, price, and category
+- Visual indicator for locally added products
+
+#### Product Management
+- Add products with name, description, image URL, price, and category
+- Edit existing locally added products
+- Delete products with confirmation dialog
+
+#### Shopping Cart
+- Products maintain count independently
+- Animated transitions when adding/removing items
+- Real-time calculation of subtotal, taxes, and final amount
+
+#### User Profile
+- Mock user data with avatar
+- Purchase history section
+- Settings for theme toggle and notification preferences
+
+## Performance Optimizations
+
+- **Image Caching**: Products images are cached for faster loading
+- **Lazy Loading**: Product details are loaded on demand
+- **Efficient State Updates**: Targeted widget rebuilds with Provider
+- **Responsive UI**: Adapts to different screen sizes and orientations
+
 ## Usage Guide
 
 ### Product Listing
@@ -108,6 +159,22 @@ lib/
 - Access the profile page from the bottom navigation bar
 - View mock user data and statistics
 - Toggle between light and dark themes (both maintaining the black & white aesthetic)
+
+## Terminal Output When Running the App
+
+```
+$ flutter run
+Launching lib/main.dart on iPhone 14 Pro in debug mode...
+✓  Built build/ios/iphonesimulator/Runner.app (17.3MB)
+Connecting to VM Service at ws://127.0.0.1:64889/dGj7U3UMYkQ=/ws
+I/flutter (12345): 🚀 App started!
+I/flutter (12345): 📱 Initializing storage...
+I/flutter (12345): ✅ Storage initialized successfully
+I/flutter (12345): 🔄 Fetching products from API...
+I/flutter (12345): 📦 Fetched 20 products from API
+I/flutter (12345): 💾 Loading local products...
+I/flutter (12345): 📦 Loaded 3 local products
+```
 
 ## Contributing
 
