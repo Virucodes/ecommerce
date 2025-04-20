@@ -1,11 +1,11 @@
 # Minimal E-commerce App
-
+https://github.com/Virucodes/ecommerce/blob/master/README.md
 A sleek, minimalist e-commerce application built with Flutter that showcases clean architecture and effective state management. The app features a consistent black and white design theme for a modern shopping experience.
 
 ## App Screenshots
 
 ### Home Screen & Product Listing
-![Home Screen]([https://imgur.com/hBLxALO](https://i.imgur.com/hBLxALO.jpeg))
+![Home Screen](https://i.imgur.com/hBLxALO.jpeg)
 
 ### Product Details
 ![Product Details](/api/placeholder/300/600?text=Product+Details)
