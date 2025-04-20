@@ -5,7 +5,8 @@ A sleek, minimalist e-commerce application built with Flutter that showcases cle
 ## App Screenshots
 
 ### Home Screen & Product Listing
-![Home Screen](https://i.imgur.com/ybmTd07.jpeg)
+<img src="https://i.imgur.com/ybmTd07.jpeg" alt="Home Screen" width="400" height="auto">
+
 
 ### Product Details
 ![Product Details](/api/placeholder/300/600?text=Product+Details)
