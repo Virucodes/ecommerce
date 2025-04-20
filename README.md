@@ -117,12 +117,12 @@ A sleek, minimalist e-commerce application built with Flutter that showcases cle
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/minimal_ecommerce_app.git
+   git clone https://github.com/Virucodes/ecommerce.git
    ```
 
 2. **Navigate to project directory:**
    ```bash
-   cd minimal_ecommerce_app
+   cd ecommerce
    ```
 
 3. **Install dependencies:**
@@ -139,35 +139,6 @@ A sleek, minimalist e-commerce application built with Flutter that showcases cle
 
 The app uses IsarDB for local storage. When you first run the app, IsarDB will automatically initialize and create the necessary database structures for seamless offline capabilities.
 
-## 📁 Project Structure
-
-```
-lib/
-├── main.dart                  # ▶️ Entry point
-├── config/                    # ⚙️ App configuration
-│   └── theme.dart             # 🎨 Black & white theme
-├── models/                    # 📊 Data models
-│   ├── product.dart
-│   ├── cart_item.dart
-│   └── user.dart
-├── providers/                 # 🔄 State management
-│   ├── product_provider.dart
-│   ├── cart_provider.dart
-│   └── user_provider.dart
-├── screens/                   # 📱 App screens
-│   ├── home_screen.dart
-│   ├── product_detail_screen.dart
-│   ├── cart_screen.dart
-│   ├── profile_screen.dart
-│   └── add_edit_product_screen.dart
-├── services/                  # 🔧 Business logic
-│   ├── api_service.dart
-│   └── storage_service.dart
-└── widgets/                   # 🧩 Reusable UI components
-    ├── product_card.dart
-    ├── cart_item_card.dart
-    └── custom_app_bar.dart
-```
 
 ## 🔄 Core Implementation Details
 
