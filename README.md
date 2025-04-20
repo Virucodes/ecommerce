@@ -17,17 +17,17 @@ A sleek, minimalist e-commerce application built with Flutter that showcases cle
 ### Drawer
 <img src="https://i.imgur.com/uQTSeoy.jpeg" alt="Home Screen" width="400" height="auto">
 
-### User Profile
-<img src="https://i.imgur.com/gir8u1m.jpeg" alt="Home Screen" width="400" height="auto">
-
 ### Add New Product
-<img src="https://i.imgur.com/hZ3AeAy.jpeg" alt="Home Screen" width="400" height="auto">
+<img src="https://i.imgur.com/gir8u1m.jpeg" alt="Home Screen" width="400" height="auto">
 
 ### User Profile
 <img src="https://i.imgur.com/hZ3AeAy.jpeg" alt="Home Screen" width="400" height="auto">
 
-### Add/Edit Product
-<img src="https://i.imgur.com/gir8u1m.jpeg" alt="Home Screen" width="400" height="auto">
+### Update a Product
+<img src="https://i.imgur.com/Sp5uCA9.jpeg" alt="Home Screen" width="400" height="auto">
+
+### Edit Product
+<img src="https://i.imgur.com/Bf2Yx5N.jpeg" alt="Home Screen" width="400" height="auto">
 
 ## Features
 
