@@ -8,67 +8,20 @@ A sleek, minimalist e-commerce application built with Flutter that showcases cle
 
 ## 📱 App Showcase
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 30%; min-width: 250px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px; overflow: hidden;">
-    <img src="https://i.imgur.com/ybmTd07.jpeg" alt="Intro Page" style="width: 100%; height: auto;">
-    <div style="padding: 10px; text-align: center; background-color: #f9f9f9;">
-      <strong>🏠 Intro Page</strong>
-    </div>
-  </div>
-
-  <div style="width: 30%; min-width: 250px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px; overflow: hidden;">
-    <img src="https://i.imgur.com/QRkvDXw.jpeg" alt="Product Details" style="width: 100%; height: auto;">
-    <div style="padding: 10px; text-align: center; background-color: #f9f9f9;">
-      <strong>🔍 Product Details</strong>
-    </div>
-  </div>
-
-  <div style="width: 30%; min-width: 250px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px; overflow: hidden;">
-    <img src="https://i.imgur.com/a7c4WKl.jpeg" alt="Shopping Cart" style="width: 100%; height: auto;">
-    <div style="padding: 10px; text-align: center; background-color: #f9f9f9;">
-      <strong>🛒 Shopping Cart</strong>
-    </div>
-  </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 20px;">
-  <div style="width: 30%; min-width: 250px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px; overflow: hidden;">
-    <img src="https://i.imgur.com/uQTSeoy.jpeg" alt="Drawer" style="width: 100%; height: auto;">
-    <div style="padding: 10px; text-align: center; background-color: #f9f9f9;">
-      <strong>📋 Drawer Menu</strong>
-    </div>
-  </div>
-
-  <div style="width: 30%; min-width: 250px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px; overflow: hidden;">
-    <img src="https://i.imgur.com/gir8u1m.jpeg" alt="Add New Product" style="width: 100%; height: auto;">
-    <div style="padding: 10px; text-align: center; background-color: #f9f9f9;">
-      <strong>➕ Add New Product</strong>
-    </div>
-  </div>
-
-  <div style="width: 30%; min-width: 250px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px; overflow: hidden;">
-    <img src="https://i.imgur.com/hZ3AeAy.jpeg" alt="User Profile" style="width: 100%; height: auto;">
-    <div style="padding: 10px; text-align: center; background-color: #f9f9f9;">
-      <strong>👤 User Profile</strong>
-    </div>
-  </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 20px;">
-  <div style="width: 30%; min-width: 250px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px; overflow: hidden;">
-    <img src="https://i.imgur.com/Sp5uCA9.jpeg" alt="Update a Product" style="width: 100%; height: auto;">
-    <div style="padding: 10px; text-align: center; background-color: #f9f9f9;">
-      <strong>📝 Update Product</strong>
-    </div>
-  </div>
-
-  <div style="width: 30%; min-width: 250px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px; overflow: hidden;">
-    <img src="https://i.imgur.com/Bf2Yx5N.jpeg" alt="Edit Product" style="width: 100%; height: auto;">
-    <div style="padding: 10px; text-align: center; background-color: #f9f9f9;">
-      <strong>✏️ Edit Product</strong>
-    </div>
-  </div>
-</div>
+Row 1: Main Screens
+<p align="center">
+  <img src="https://i.imgur.com/ybmTd07.jpeg" width="200" alt="🏠 Intro Page">
+  <img src="https://i.imgur.com/QRkvDXw.jpeg" width="200" alt="🔍 Product Details">
+  <img src="https://i.imgur.com/a7c4WKl.jpeg" width="200" alt="🛒 Shopping Cart">
+  <img src="https://i.imgur.com/uQTSeoy.jpeg" width="200" alt="📋 Drawer Menu">
+</p>
+Row 2: Management Screens
+<p align="center">
+  <img src="https://i.imgur.com/gir8u1m.jpeg" width="200" alt="➕ Add New Product">
+  <img src="https://i.imgur.com/hZ3AeAy.jpeg" width="200" alt="👤 User Profile">
+  <img src="https://i.imgur.com/Sp5uCA9.jpeg" width="200" alt="📝 Update Product">
+  <img src="https://i.imgur.com/Bf2Yx5N.jpeg" width="200" alt="✏️ Edit Product">
+</p>
 
 ## ✨ Features
 
