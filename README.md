@@ -4,20 +4,20 @@ A sleek, minimalist e-commerce application built with Flutter that showcases cle
 
 ## App Screenshots
 
-### Home Screen & Product Listing
+### Intro Page
 <img src="https://i.imgur.com/ybmTd07.jpeg" alt="Home Screen" width="400" height="auto">
 
 
-### Intro Page
+### Product Details
 <img src="https://i.imgur.com/QRkvDXw.jpeg" alt="Home Screen" width="400" height="auto">
 
-### Product Details
+### Shopping Cart
 <img src="https://i.imgur.com/a7c4WKl.jpeg" alt="Home Screen" width="400" height="auto">
 
-### Shopping Cart
+### Drawer
 <img src="https://i.imgur.com/uQTSeoy.jpeg" alt="Home Screen" width="400" height="auto">
 
-### Drawer
+### User Profile
 <img src="https://i.imgur.com/gir8u1m.jpeg" alt="Home Screen" width="400" height="auto">
 
 ### Add New Product
